@@ -1,0 +1,39 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Environment variables
+.env
+.env.test
+.env.production
+.env.local
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Output of 'npm pack'
+*.tgz
+
+# Build directory (if you add build steps later)
+dist/
+build/
+
+# Mac OS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
